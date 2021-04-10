@@ -12,7 +12,6 @@ A version of my portfolio built using React.
 * Javascript
 * HTML
 * CSS
-* Heroku
 * GIT
 * GitHub
 
